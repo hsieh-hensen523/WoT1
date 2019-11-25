@@ -1,0 +1,3 @@
+Temperature: 9 Light:50
+Temperature: 20 Light:8
+Temperature: 23 Light:48
